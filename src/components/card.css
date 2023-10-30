@@ -1,0 +1,17 @@
+
+
+
+.project-card{
+    background: rgb(37, 37, 37);
+    padding: 1.2rem 1rem;
+    
+}
+
+.work-container{
+    border: 1px solid;
+    border-color:white ;
+    padding:100px;
+    margin-top: 13%;
+    margin-bottom: 13%;
+   
+}

@@ -1,0 +1,23 @@
+.footer{
+    width: 100%;
+    padding:3rem 0;
+    background-color: 19 19 19 0.8;
+}
+.footer-container{
+    padding: 10px;
+    margin-left: 5%;
+}
+.email{
+    position: relative;
+    left:70%;
+    bottom:90px;
+    
+}
+@media screen and (max-width:1040px){
+    .email{ position: relative;
+        left: 2px;
+        top:25px;
+        margin-left: 25px;
+
+    }
+}
